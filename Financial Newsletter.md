@@ -24,4 +24,5 @@ Despite geopolitical tensions and fuel price hikes (₹3/litre on petrol & diese
 Maintaining CapEx of around INR 3000/- Cr TATA MOTORS LTD Qtr Sales has been significantly higher than its peers.
 The company is awaiting for the TATA Sierra EV to be launched next quarter. Whereas the non EV version has already sold 30,713 units and has established itself as the third-highest-selling model in Tata Motors portfolio
 On the premium side, the Defender has emerged as JLR's best-selling model in India this year. Wholesale volumes rose 6% YoY, indicating improved supply and dispatch activities at the end of the financial year and also serving as the technology blueprint for the upcoming Tata Avinya. 
+
 Market Cap: INR 1,39,174 Cr | Current Price: INR 378
